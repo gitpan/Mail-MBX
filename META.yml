@@ -22,4 +22,4 @@ resources:
   Type: git
   Url: git://github.com/xantronix/Mail-Dir-MBX.git
   Web: https://github.com/xantronix/Mail-Dir-MBX
-version: 0.01_0001
+version: '0.01'

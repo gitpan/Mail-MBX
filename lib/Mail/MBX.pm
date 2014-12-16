@@ -36,7 +36,7 @@ use warnings;
 
 use Mail::MBX::Message ();
 
-our $VERSION = '0.01_0001';
+our $VERSION = '0.01';
 
 =item C<Mail::MBX-E<gt>open(I<$file>)>
 

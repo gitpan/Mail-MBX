@@ -34,11 +34,11 @@
          }
       }
    },
-   "release_status" : "testing",
+   "release_status" : "stable",
    "resources" : {
       "x_type" : "git",
       "x_url" : "git://github.com/xantronix/Mail-Dir-MBX.git",
       "x_web" : "https://github.com/xantronix/Mail-Dir-MBX"
    },
-   "version" : "0.01_0001"
+   "version" : "0.01"
 }
